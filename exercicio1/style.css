@@ -1,0 +1,28 @@
+#titulo-importante{
+  color: white;
+  background-color: blue;
+}
+
+.sub-titulo{
+  color: black;
+  background-color: yellow;
+}
+
+.titulo-secao{
+  color: white;
+  background-color: green;
+  margin-bottom: 0%;
+  padding-bottom: 20px;
+}
+
+.texto-generico{
+  color: black;
+  background-color: green;
+  display: block;
+  margin-top: 0%;
+}
+
+.titulo-pouco-importante{
+  color: white;
+  background-color: black;
+}
